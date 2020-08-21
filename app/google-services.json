@@ -1,0 +1,43 @@
+
+{
+  "project_info": {
+    "project_number": "498032615483",
+    "firebase_url": "https://epics-smart-city.firebaseio.com",
+    "project_id": "epics-smart-city",
+    "storage_bucket": "epics-smart-city.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498032615483:android:6edc4f917e350b3f",
+        "android_client_info": {
+          "package_name": "com.epics.smartcityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498032615483-ae07ohfscjl8slqrdqjve4728dao5hhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQyIF2tKGgotLAcXd4lH8LrbgfGvYyOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
